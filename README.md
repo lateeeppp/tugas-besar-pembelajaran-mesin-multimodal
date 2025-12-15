@@ -11,10 +11,11 @@
 - 122140125 - A Kevin Sergian
 - 122140119 - Martua Kevin A.M.H Lubis
 
-## Tautan Notebook Kaggle
+## Tautan Notebook
 
-- Tautan: [Baseline](https://www.kaggle.com/code/lathief137/baseline-kelompok3)
-- Tautan: [Optimalisasi](https://www.kaggle.com/code/lathief137/optimalisasi-kelompok3)
+- Kaggle: [Baseline](https://www.kaggle.com/code/lathief137/baseline-kelompok3)
+- Kaggle: [Optimalisasi](https://www.kaggle.com/code/lathief137/optimalisasi-kelompok3)
+- Colab: [EDA](https://colab.research.google.com/drive/1V8ruhS9HQa3l52FGTSsZuWlN17-BP5NP?usp=sharing)
 
 ## Model Yang Digunakan
 
