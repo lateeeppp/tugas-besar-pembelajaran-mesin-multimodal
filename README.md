@@ -13,8 +13,8 @@
 
 ## Tautan Notebook Kaggle
 
-Tautan: [Baseline](https://www.kaggle.com/code/lathief137/baseline-kelompok3)
-Tautan: [Optimalisasi](https://www.kaggle.com/code/lathief137/optimalisasi-kelompok3)
+- Tautan: [Baseline](https://www.kaggle.com/code/lathief137/baseline-kelompok3)
+- Tautan: [Optimalisasi](https://www.kaggle.com/code/lathief137/optimalisasi-kelompok3)
 
 ## Model Yang Digunakan
 
