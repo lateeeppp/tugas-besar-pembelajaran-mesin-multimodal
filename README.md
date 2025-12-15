@@ -13,3 +13,17 @@
 ## Tautan Notebook Kaggle
 Tautan: [Kaggle](https://www.kaggle.com/code/lathief137/tugas-besar-mml-kel3)
 Perkiraan Waktu Training: 9 Jam
+
+## Model Yang Digunakan
+- Modalitas Audio: PANNs CNN14 (Pretrained)
+- Modalitas Lyric: BERT (Pretrained)
+- Modalitas MIDI: Resnet18 (Pretrained)
+- Fusion: Intermediate Fusion (Cross Attention)
+
+## Performance Metric
+### Komparasi Akurasi:
+![Akurasi](images/accuracy.png)
+### Komparasi Kurva Pembelajaran:
+![Kurva Pembelajaran](images/learning-curve.png)
+### Confusion Matrix:
+![Confusion Matrix](images/confusion-matrix.png)
