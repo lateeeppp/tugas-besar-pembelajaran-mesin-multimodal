@@ -6,9 +6,9 @@
 
 - 122140137 - Ikhsannudin Lathief
 - 122140139 - Keti Azura
-- 122140125 - A Kevin Sergian
-- 122140202 - Fayyadh Abdillah
 - 122140173 - Muhammad Nelwan Fakhri
+- 122140202 - Fayyadh Abdillah
+- 122140125 - A Kevin Sergian
 - 122140119 - Martua Kevin A.M.H Lubis
 
 ## Tautan Notebook Kaggle
