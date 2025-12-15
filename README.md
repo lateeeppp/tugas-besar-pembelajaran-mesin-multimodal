@@ -26,4 +26,4 @@ Perkiraan Waktu Training: 9 Jam
 ### Komparasi Kurva Pembelajaran:
 ![Kurva Pembelajaran](images/learning-curve.png)
 ### Confusion Matrix:
-![Confusion Matrix](images/confusion-matrix.png)
+![Confusion Matrix](images/confusion%20matrix.png)
