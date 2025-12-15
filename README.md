@@ -11,4 +11,5 @@
 - 122140 - Martua Kevin A.M.H Lubis
 
 ## Tautan Notebook Kaggle
-Tautan: [Kaggle](https://www.kaggle.com/code/lathief137/tugas-besar-mml6a2213a91c)
+Tautan: [Kaggle](https://www.kaggle.com/code/lathief137/tugas-besar-mml-kel3)
+Perkiraan Waktu Training: 9 Jam
